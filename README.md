@@ -1,4 +1,4 @@
-# Gambling-game
+## Mathematical Combinations
 
 A terminal-based Python implementation of a classic game. This project simulates the full draw process. This project demonstrates random number generation, ascending-order sorting logic, and conditional payout systems while exploring the difference between pseudo-randomness and cryptographic security.
 
