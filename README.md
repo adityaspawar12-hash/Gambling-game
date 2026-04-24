@@ -1,10 +1,6 @@
 # Gambling-game
 
- A Python-based simulator of the traditional "Matka" lottery game. This project demonstrates random number generation, ascending-order sorting logic, and conditional payout systems while exploring the difference between pseudo-randomness and cryptographic security.
- 
-# Simulator
-
-A terminal-based Python implementation of the classic Matka game. This project simulates the full draw process, including Open/Close Pannas, Ank calculation, and Jodi formation.
+A terminal-based Python implementation of a classic game. This project simulates the full draw process. This project demonstrates random number generation, ascending-order sorting logic, and conditional payout systems while exploring the difference between pseudo-randomness and cryptographic security.
 
 ## About the Game
 
